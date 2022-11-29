@@ -22,7 +22,7 @@
   <li>💞️ I’m looking to collaborate on ...</li>
   <li>📫 How to reach me ...</li>
  <ul>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GVenkat-136&layout=compact">
+
 
 <!---
 GVenkat-136/GVenkat-136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
