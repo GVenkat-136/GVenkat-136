@@ -17,9 +17,8 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
   </span>
  <ul align=”center”>
-  <li>👀 I’m interested in ...</li>
-  <li>🌱 I’m currently learning ...</li>
-  <li>💞️ I’m looking to collaborate on ...</li>
+  <li>👀 I’m interested in Nodejs...</li>
+  <li>💞️ I’m intrested on collaborate with ...</li>
   <li>📫 How to reach me ...</li>
  <ul>
 
