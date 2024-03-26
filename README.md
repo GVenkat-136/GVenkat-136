@@ -17,7 +17,7 @@
  <ul align=”center”>
       <li>👀 I’m interested in Node.js, React, and building scalable web applications.</li>
       <li>💞️ I’m interested in collaborating on projects related to web development and innovative tech solutions.</li>
-      <li>📫 How to reach me: <a href='dev.gvnarenra@gamil.com' styles='text-decoration: none'><b>dev.gvnarenra@gamil.com</b></a></li>
+      <li>📫 How to reach me: <a href='dev.gvnarenra@gmail.com' styles='text-decoration: none'><b>dev.gvnarenra@gmail.com</b></a></li>
       <li>🎓 Graduated with a degree in B.com Computers . Constantly learning and exploring new technologies.</li>
       <li>🌟 Experienced in building RESTful APIs using Express.js and MongoDB.</li>
       <li>🚀 Actively contribute to open-source projects on GitHub.</li>
