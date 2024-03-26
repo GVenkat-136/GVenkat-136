@@ -1,8 +1,8 @@
 <h2 align="center">
-    👋  Hello My Name  G .Venkata Narendra
+    👋  Hello , I'm  G .Venkata Narendra
   </h2> 
   <h2 align="center">
-    I'm a Full-Stack Web Developer 💻 with 2 years of experience
+    A Full-Stack Web Developer 💻 with 2 years of experience 💼
    </h2> 
  
   <span>
