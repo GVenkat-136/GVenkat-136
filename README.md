@@ -21,7 +21,7 @@
 
   
  <ul align=”center”>
-      <li>👀 I’m passionate about automation testing, Node.js, React, and building scalable web applications.</li>
+      <li>👀 I’m passionate about Node.js, React, and building scalable web applications.</li>
       <li>💡 Specialized in real-time applications using Socket.io and backend development with Node.js.</li>
       <li>🛠️ Proficient in designing RESTful APIs with Node.js, Express.js, and MongoDB, and integrating WebSockets for real-time updates.</li>
       <li>🎯 Always exploring new technologies to enhance web applications and real-time data handling.</li>
